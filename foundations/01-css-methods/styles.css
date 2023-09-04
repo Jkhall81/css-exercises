@@ -1,0 +1,13 @@
+.container {
+    background-color: red;
+    text-align: center;
+    padding: 6px;
+}
+
+p {
+    background-color: green;
+}
+
+button {
+    background-color: orange;
+}
