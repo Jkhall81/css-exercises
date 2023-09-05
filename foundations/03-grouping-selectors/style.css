@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-container {
+    background-color: white;
+    padding: 8px;
+}
+
+#button-one {
+    font-size: 3em;
+    background-color: black;
+    color: white;
+}
+
+#button-two {
+    margin-left: 4px;
+    font-size: 3em;
+    background-color: yellow;
+}

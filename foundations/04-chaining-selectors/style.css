@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.original-proportioned,
+.original-distorted {
+    width: 50%;
+
+}
+
+.bottom {
+    display: flex;
+}
+
+.avatar-proportioned {
+    height: 30px%;
+}

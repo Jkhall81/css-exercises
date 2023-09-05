@@ -1,0 +1,23 @@
+.number-one {
+    background-color: lightcoral;
+}
+
+#two {
+    color: blue;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+.number-three {
+    background-color: lightcoral;
+    font-size: 1.5em;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bolder;
+}
+
+.number-five {
+    background-color: lightcoral;
+}
